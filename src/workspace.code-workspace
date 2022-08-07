@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Chassis_Class",
+			"path": "../../Chassis_Class"
+		},
+		{
+			"name": "Interrupt_Code",
+			"path": "../../Interrupt_Code"
+		},
+		{
+			"name": "Homework_3",
+			"path": "../../Homework_3"
+		},
+		{
+			"name": "Lab_4_Code",
+			"path": "../../Lab_4_Code"
+		}
+	],
+	"settings": {}
+}
